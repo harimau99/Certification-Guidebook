@@ -8,7 +8,6 @@ The material is for education purposes & i do not own any of this material unles
 
 # Provider
 ## Cloud & OS
-
 | Provider Name | Link |
 | ------------- | ---- |
 | Microsoft     | [src 1](https://github.com/MicrosoftLearning) , [src 2](https://www.tutorialspoint.com/microsoft_azure/index.htm) |
