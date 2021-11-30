@@ -4,10 +4,9 @@ This repository is made for people out there and also for myself to use as refer
 
 ## Disclaimer
 The material is for education purposes & i do not own any of this material unless mentioned. Therefore, the credit belong to original provider.
-##
-##
+
+
 # Provider
-##
 ## Cloud & OS
 
 | Provider Name | Link |
