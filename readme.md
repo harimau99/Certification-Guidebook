@@ -15,7 +15,7 @@ The material is for education purposes & i do not own any of this material unles
 | AWS		| [src 1](#), [src 2](https://github.com/ACloudGuru-Resources) |
 
 
-## Note:
+## Note
 Will update from time to time depending on the availability.
 
 
